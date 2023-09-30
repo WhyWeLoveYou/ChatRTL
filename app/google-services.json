@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896241597218",
+    "project_id": "nyobalageee",
+    "storage_bucket": "nyobalageee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896241597218:android:39792516deceddbf8e837b",
+        "android_client_info": {
+          "package_name": "com.whyweloveyou.chatrtl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896241597218-pnckvu895ijdj7lfk02b5ad916stl9jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASXbFE9pkyeGSGrDW_Dx3i75aG4RIgCLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896241597218-pnckvu895ijdj7lfk02b5ad916stl9jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
